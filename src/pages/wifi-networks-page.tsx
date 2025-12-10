@@ -38,7 +38,6 @@ function WifiNetworksPage({ theme }: { theme: MD3Theme }) {
           fetchWifiNetworks();
         }}
       >
-        {' '}
         Update list
       </Button>
     </View>
